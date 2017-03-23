@@ -1,5 +1,5 @@
 {
-    "name": "sulu/sulu-sales",
+    "name": "sulu/sales-shipping-bundle",
     "type": "sulu-bundle",
     "description": "Commerce Bundles of Sulu",
     "license": "MIT",
@@ -39,8 +39,7 @@
     },
     "replace": {
         "sulu/sales-core-bundle": "self.version",
-        "sulu/sales-order-bundle": "self.version",
-        "sulu/sales-shipping-bundle": "self.version"
+        "sulu/sales-order-bundle": "self.version"
     },
     "autoload": {
         "psr-0": {
