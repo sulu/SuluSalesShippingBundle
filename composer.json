@@ -39,8 +39,7 @@
     },
     "replace": {
         "sulu/sales-core-bundle": "self.version",
-        "sulu/sales-order-bundle": "self.version",
-        "sulu/sales-shipping-bundle": "self.version"
+        "sulu/sales-order-bundle": "self.version"
     },
     "autoload": {
         "psr-0": {
